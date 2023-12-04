@@ -1,8 +1,7 @@
 const findFirstRepeated = require('./challenge1');
-//import {describe, expect, test} from '@jest/globals'
 
 describe('Test for Challenge #1', () => {
-	test('Returb', () => {
+	test('Challenge 1', () => {
 		const gifts = [2, 1, 3, 5, 3, 2];
 		const expected = 3;
 
